@@ -24,6 +24,8 @@
 
 ![image](https://user-images.githubusercontent.com/39476553/75633530-7f75d800-5c2b-11ea-8355-0f1f609c5123.png)
 
+<hr>
+<h4> Here is detailed specification </h4>
 => React Blog
 
 This is a MERN stack based fully functioning blog system, which supports features of signing up, signing up, making authenticated requests, updating profile, changing password, publishing/editing/deleting blog post, making comments, etc.

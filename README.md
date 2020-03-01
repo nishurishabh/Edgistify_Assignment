@@ -6,7 +6,15 @@
 <br>
   
 <h3> Here are some screen shots of the project </h3>  
+<br><hr>
 
+![image](https://user-images.githubusercontent.com/39476553/75633436-c6af9900-5c2a-11ea-9f98-cc2308c5f3f8.png)
+
+![image](https://user-images.githubusercontent.com/39476553/75633442-cca57a00-5c2a-11ea-95b5-b854b370e463.png)
+
+![image](https://user-images.githubusercontent.com/39476553/75633447-d4fdb500-5c2a-11ea-984b-1f077317a5bb.png)
+
+![image](https://user-images.githubusercontent.com/39476553/75633459-e5ae2b00-5c2a-11ea-80c5-dbaea442cbdf.png)
 
 
 => React Blog

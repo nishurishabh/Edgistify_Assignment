@@ -1,10 +1,12 @@
 
 
 <h1> Edgistify Assignment </h1>
-<hr>
+<hr><br>
 <h6> The project contains a blogging site with create, delete and edit functionality. The project also has user authentication and authorization (login and signup). User can add comments and also edit, delete comments of their own.
+<br>
   
-  
+<h3> Here are some screen shots of the project </h3>  
+
 => React Blog
 
 This is a MERN stack based fully functioning blog system, which supports features of signing up, signing up, making authenticated requests, updating profile, changing password, publishing/editing/deleting blog post, making comments, etc.

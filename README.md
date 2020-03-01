@@ -7,9 +7,7 @@
   
 <h3> Here are some screen shots of the project </h3>  
 
-<ol>
-  <li> 
-</ol>
+
 
 => React Blog
 
